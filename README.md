@@ -21,9 +21,9 @@ The LSTM model was chosen for its ability to handle time-series data and capture
 **Evaluation Metrics**
 The RMSE values for the different datasets are as follows:
 
-Training Data: 0.02088\n
-Validation Data: 0.03383\n
-Testing Data: 0.04167\n
+Training Data: 0.02088
+Validation Data: 0.03383
+Testing Data: 0.04167
 These values indicate that the difference between the true and predicted values is minimal, demonstrating that the model can predict the stock prices with a good degree of accuracy.
 
 
